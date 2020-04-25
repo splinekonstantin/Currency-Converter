@@ -1,6 +1,7 @@
 # Currency-Converter
 
-Currency Converter using Exchange Ratex API
+Currency Converter using Exchange Ratex API.
+
 Made by following @wesbos's course 'Beginner Javascript'.
 
 Uses: **HTML5, CSS, JS**.
